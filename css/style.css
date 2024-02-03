@@ -1,0 +1,45 @@
+.hero {
+    margin-top: 50px;
+    height: 600px;
+    background-image: linear-gradient(to bottom, rgba(7, 2, 17, 1), rgba(7, 2, 17, 0)), url(../assets/img/banner-img.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.all-categories-img {
+    width: 802.9px;
+    height: 500px;
+}
+
+.midnight-party {
+    height: 600px;
+    background-image: linear-gradient(to right, rgba(7, 2, 17, 1), rgba(7, 2, 17, 0)), url(../assets/img/midnightparty.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.party-img {
+    height: 464.66px;
+    width: 319.83px;
+}
+
+.party-content {
+    display: flex;
+    gap: 70px;
+    align-items: center;
+}
+
+.venue {
+    height: 482px;
+    background-image: linear-gradient(to bottom, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
