@@ -96,6 +96,7 @@
 
 .container {
     width: 1320px;
+    border-radius: 20px;
 }
 
 .mx-auto {

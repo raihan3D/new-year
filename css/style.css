@@ -4,7 +4,6 @@
     background-image: linear-gradient(to bottom, rgba(7, 2, 17, 1), rgba(7, 2, 17, 0)), url(../assets/img/banner-img.png);
     background-size: contain;
     background-repeat: no-repeat;
-    border-radius: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -20,7 +19,6 @@
     background-image: linear-gradient(to right, rgba(7, 2, 17, 1), rgba(7, 2, 17, 0)), url(../assets/img/midnightparty.png);
     background-size: contain;
     background-repeat: no-repeat;
-    border-radius: 20px;
     display: flex;
     justify-content: center;
 }
@@ -42,4 +40,40 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.offer {
+    height: 463px;
+}
+
+.offer-text-contents {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.offer-img-container {
+    border: 10px solid #ff0000;
+    padding: 25px;
+    border-radius: 100%;
+}
+.text-container-2024 {
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+.offer-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.offer-img {
+    width: 364.84px;
+    height: 364.84px;
+}
+
+.happy-new-year-img {
+    width: 140px;
+    height: 140px;
 }
